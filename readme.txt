@@ -3,4 +3,4 @@ The compressed file mainly contains the FGsvd-LDA algorithm and the FTRLDA algor
 Please pay attention to the selection of the subspace and the choice of image size.
 
 
-[1] Yujie Wang, Weiwei Xu* and Lei Zhu, Efficient Linear Discriminant Analysis based on Randomized Low-Rank Approaches, IEEE Transactions on Neural Networks and Learning Systems
+[1] Yujie Wang, Weiwei Xu* and Lei Zhu, Efficient Linear Discriminant Analysis based on Randomized Low-Rank Approaches, IEEE Transactions on Neural Networks and Learning Systems, accepted, 2025.
